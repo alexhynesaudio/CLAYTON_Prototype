@@ -1,0 +1,10 @@
+	Commit summary
+
+Branch in square brackets (e.g. [CLAYTON Prototype])
+
+Area of submission (e.g. art, level design, source code, sound, etc.) 
+
+
+	Commit description
+
+Short, clear description of what was changed
